@@ -1,0 +1,4 @@
+{
+  "name": "Reynolds Experiment Simulator",
+  "description": "Interactive simulation of Osborne Reynolds' experiment to determine flow regimes (Laminar, Transition, Turbulent) with real-time ink visualization and data analysis."
+}
